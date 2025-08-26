@@ -13,7 +13,7 @@
 
 ### - I'm 20 years old Developer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgoku-ultra&psig=AOvVaw1yn_xLsN7uJofwjqdUC1tl&ust=1756319011879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCT_qiMqY8DFQAAAAAdAAAAABAE">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3Mzh5MWVta3RleWFyaWk1MjlxcTduZG5uaWlpMWlvbXd1bHV2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
