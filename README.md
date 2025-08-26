@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 20 years old Developer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgoku-ultra&psig=AOvVaw1yn_xLsN7uJofwjqdUC1tl&ust=1756319011879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCT_qiMqY8DFQAAAAAdAAAAABAE">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
