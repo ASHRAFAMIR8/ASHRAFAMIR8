@@ -21,6 +21,7 @@
 - ✨ JavaScript
 - ✨ Java
 - ✨ C++
+- ✨ HTML
 
 ### - Hobbies : 
 - ✨ Gaming Addict
